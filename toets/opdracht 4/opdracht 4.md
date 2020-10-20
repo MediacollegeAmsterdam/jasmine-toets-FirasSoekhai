@@ -11,5 +11,7 @@ Het is niet nodig een HTML bestand aan te maken.
 Maak een schermprint van de directory structuur van je project en voeg deze afbeelding toe aan je Github repository.
 
 ## c. Jasmine commando's (0,5 punt)
-- Welke commando('s) heb je nodig om de bovenstaande directory structuur te maken.   
-- Welke commando('s) heb je nodig om de testen uit te voeren.
+- Welke commando('s) heb je nodig om de bovenstaande directory structuur te maken.
+> jasmine init   
+- Welke commando('s) heb je nodig om de testen uit te voeren. 
+> jasmine
