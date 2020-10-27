@@ -29,15 +29,12 @@ function Voorraad(item, aantal) {
     this.verlaagVoorraad = function () {
         voorraad = voorraad  -1;
     }
-
     this.verhoogVoorraad = function () {
         voorraad = voorraad  +1;
     }
-
     this.verhoogMeerdereVoorraad = function () {
         voorraad = voorraad  +5;
     }
-
     this.verlaagMeerdereVoorraad = function () {
         voorraad = voorraad  -5;
     }
